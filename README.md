@@ -1,10 +1,9 @@
-# 📚 Elschool arser
+# 📚 Elschool parser
 
 > Effortlessly extract, analyze, and visualize your grades and homework from Elschool.ru ✨
 
 ---
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white) ![Email](https://img.shields.io/badge/raminkiyamov@gmail.com-blue?logo=gmail&logoColor=white) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/:user/:repo)
-
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white) ![Email](https://img.shields.io/badge/raminkiyamov@gmail.com-blue?logo=gmail&logoColor=white)
 
 
 
